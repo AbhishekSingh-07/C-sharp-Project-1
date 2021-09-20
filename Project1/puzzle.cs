@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -130,8 +130,7 @@ namespace project1
             Console.Write("Enter order of matrix: ");
             orderOfMatrix = int.Parse(Console.ReadLine());
             arr = new int[orderOfMatrix * orderOfMatrix];
-           
-
+            arr[0] = 1;
         }
 
         //*****************   4    ***********************
@@ -139,17 +138,6 @@ namespace project1
         {
             for (int i = 0; i < (orderOfMatrix * orderOfMatrix); i++)
             {
-                
-
-                if (i == (orderOfMatrix * orderOfMatrix) - orderOfMatrix)
-                {
-                    arr[i] = 1;
-                }
-                else
-                {
-                    arr[i] = 0;
-                }
-
                 if (i % orderOfMatrix == 0)
                 {
                     Console.WriteLine();
