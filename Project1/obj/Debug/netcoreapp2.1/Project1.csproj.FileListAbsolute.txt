@@ -1,0 +1,11 @@
+G:\Virtusa Training\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.deps.json
+G:\Virtusa Training\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.json
+G:\Virtusa Training\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.dev.json
+G:\Virtusa Training\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.dll
+G:\Virtusa Training\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.pdb
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csprojAssemblyReference.cache
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csproj.CoreCompileInputs.cache
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfoInputs.cache
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfo.cs
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.dll
+G:\Virtusa Training\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.pdb
