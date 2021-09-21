@@ -130,7 +130,7 @@ namespace project1
             Console.Write("Enter order of matrix: ");
             orderOfMatrix = int.Parse(Console.ReadLine());
             arr = new int[orderOfMatrix * orderOfMatrix];
-            arr[0] = 1;
+            arr[orderOfMatrix * orderOfMatrix - orderOfMatrix] = 1;
         }
 
         //*****************   4    ***********************
